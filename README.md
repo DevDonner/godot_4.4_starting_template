@@ -1,5 +1,5 @@
 # Godot Project Template
-[![Latest Release](https://img.shields.io/github/v/release/DevDonner/godot_4.4_starter_template?label=latest%20release&style=for-the-badge)](https://github.com/DevDonner/godot_4.4_starter_template/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/DevDonner/godot_4.4_starting_template?label=latest%20release&style=for-the-badge)](https://github.com/DevDonner/godot_4.4_starting_template/releases/latest)
 
 Starter template for my future godot projects, I'll update this as I go. Just wanted something simple and easy, ended up with a nightmare. 
 Seems solid now, I did need to utilize AI to refactor some code but AI is AI and debugging can still take you till 3 am...
